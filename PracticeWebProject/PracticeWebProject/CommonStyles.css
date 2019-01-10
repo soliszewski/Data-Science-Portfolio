@@ -5,6 +5,16 @@ html, body {
     width: 100%;
 }
 
+a {
+    text-decoration: none;
+    color: #999;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #bababa;
+}
+
 .main {
     height: calc(100% - 30px);
     width: 100%;
