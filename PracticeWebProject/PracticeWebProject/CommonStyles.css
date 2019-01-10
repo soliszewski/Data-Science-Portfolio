@@ -5,9 +5,14 @@ html, body {
     width: 100%;
 }
 
-a {
+.navigation a {
     text-decoration: none;
     color: #999;
+}
+
+.grid a {
+    text-decoration: none;
+    color: black;
 }
 
 a:hover {
