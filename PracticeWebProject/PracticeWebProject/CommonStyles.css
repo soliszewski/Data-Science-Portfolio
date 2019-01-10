@@ -16,13 +16,15 @@ html, body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 12px;
     color: #999;
+    height: 50px;
 }
 
 .navigation {
-    display: grid;
+    display: flex;
     grid-template-columns: auto auto auto;
     width: 300px;
     float: right;
-    margin-right:20px;
-    height: 50px;
+    margin-right: 20px;
+    align-items: center;
+    justify-content: center;
 }
