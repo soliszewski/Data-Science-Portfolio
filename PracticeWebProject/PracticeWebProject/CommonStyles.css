@@ -10,3 +10,11 @@ html, body {
     width: 100%;
     background-color: #bababa;
 }
+
+.navigation {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 300px;
+    float: right;
+    margin-right:20px;
+}
