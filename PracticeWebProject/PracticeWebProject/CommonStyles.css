@@ -51,6 +51,10 @@ a:hover {
     text-align: center;
 }
 
+.content {
+    padding-left: 15px;
+}
+
 .grid {
     display: grid;
     grid-template-columns: 300px 600px;
