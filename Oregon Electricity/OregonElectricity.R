@@ -1,8 +1,6 @@
-#Sam Oliszewski
-#ST 517
-#Emerson
-#March 23, 2018
-#Final Project
+# Sam Oliszewski
+# March 23, 2018
+# Oregon Electricity
 
 elec <- read.csv("or_acs_house.csv")
 elec <- elec[c("NP","BLD","ACR","BDSP","FULP","GASP","HFL","RMSP","TEN","VALP","YBL","R18","R60","ELEP")]
